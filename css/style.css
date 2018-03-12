@@ -1,0 +1,84 @@
+body {
+    font-family: "HelveticaNeueb83d7dfd219612";
+    color: #747704;
+}
+
+.text-muted {
+    color: #bcbbbb;
+}
+
+.title-super {
+    font-size: 60px;
+}
+
+.title-logo {
+    margin-bottom: 20px;
+}
+
+.carousel-image {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 541px;
+}
+
+.image {
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 320px;
+}
+
+.container .col-md-6{
+    margin-bottom: 15px;
+}
+
+
+.col-md-6 .image-7 {
+    background-position: -54px 0px;
+}
+
+.col-md-6 .image-8 {
+    background-position: 3px 3px;
+}
+
+.carousel-inner .image-3,.image-7 {
+    background-position:0px -17px;
+}
+
+.carousel-inner .image-3,.image-8 {
+    background-position:0px 0px;
+}
+
+
+.image-1 {
+    background-image: url(../img/计算器截图.PNG);
+}
+
+.image-2 {
+    background-image: url(../img/日历截图.PNG);
+}
+
+.image-3 {
+    background-image: url(../img/播放器截图.JPG);
+}
+
+.image-4 {
+    background-image: url(../img/博客截图1.PNG);
+}
+
+.image-5 {
+    background-image: url(../img/3D轮播截图1.PNG);
+}
+
+.image-6 {
+    background-image: url(../img/瀑布流截图.PNG);
+}
+
+.image-7 {
+    background-image: url(../img/douban爬虫可视化截图2.PNG);
+}
+
+.image-8 {
+    background-image: url(../img/便签截图1.PNG);
+}
